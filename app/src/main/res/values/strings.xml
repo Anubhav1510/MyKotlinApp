@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyKotlinApp</string>
+    <string name="has_issues">Has Issues</string>
+    <string name="load_data">Load Data</string>
+</resources>
